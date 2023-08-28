@@ -1,0 +1,7 @@
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\obj\Debug\Clase2Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\obj\Debug\Clase2Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\bin\Debug\Clase2Ejercicio1.exe.config
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\bin\Debug\Clase2Ejercicio1.exe
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\bin\Debug\Clase2Ejercicio1.pdb
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\obj\Debug\Clase2Ejercicio1.exe
+C:\Users\drago\OneDrive\Escritorio\Image\Taller\Clase2Ejercicio1\Clase2Ejercicio1\obj\Debug\Clase2Ejercicio1.pdb
