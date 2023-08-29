@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\bin\Debug\Quien es Quien.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\bin\Debug\Quien es Quien.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\bin\Debug\Quien es Quien.pdb
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\obj\Debug\Quien es Quien.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\obj\Debug\Quien es Quien.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\obj\Debug\Quien es Quien.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Quien es Quien\Quien es Quien\obj\Debug\Quien es Quien.pdb
