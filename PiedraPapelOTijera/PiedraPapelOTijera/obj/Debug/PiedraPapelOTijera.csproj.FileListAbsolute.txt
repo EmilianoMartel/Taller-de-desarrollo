@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\bin\Debug\PiedraPapelOTijera.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\bin\Debug\PiedraPapelOTijera.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\bin\Debug\PiedraPapelOTijera.pdb
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\obj\Debug\PiedraPapelOTijera.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\obj\Debug\PiedraPapelOTijera.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\obj\Debug\PiedraPapelOTijera.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\PiedraPapelOTijera\PiedraPapelOTijera\obj\Debug\PiedraPapelOTijera.pdb

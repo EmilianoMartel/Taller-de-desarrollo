@@ -419,15 +419,55 @@ namespace Clase2Ejercicio1
         }
     }
 
+class Clase4
+{
 
-    class Program
+    enum DiceType
     {
-        static void Main(string[] args)
+        d4,
+        d6,
+        d8,
+        d10,
+        d12,
+        d20
+    }
+    public void Ejercicio1()
+    {
+        DiceType diceType;
+        int diceTypeSelection;
+        int cantDice;
+        int maxValue;
+        string diceValue;
+        
+        Console.WriteLine("Que tipo de dado quiere tirar?");
+        Console.WriteLine("1-D4");
+        Console.WriteLine("2-D6");
+        Console.WriteLine("3-D8");
+        Console.WriteLine("4-D10");
+        Console.WriteLine("5-D12");
+        Console.WriteLine("6-D20");
+        while (!int.TryParse(Console.ReadLine(), out num))
         {
-           // Ejercicios ejercicios = new Ejercicios();
-            Clase3 clase3 = new Clase3();
-            clase3.Ejercicio8();
-            Console.ReadLine();
+            Console.WriteLine("Ingrese un numero valido: ");
         }
+        diceTypeSelection = int.TryParse(Console.ReadLine(), out num);
+        Console.WriteLine("Cuantos dados quiere lanzar?");
+        while (!int.TryParse(Console.ReadLine(), out num))
+        {
+            Console.WriteLine("Ingrese un numero valido: ");
+        }
+        cantDice = int.TryParse(Console.ReadLine(), out num);
+    }
+
+
+}
+
+class Program
+{
+    
+    static void Main(string[] args)
+    {   
+        
+         
     }
 }
