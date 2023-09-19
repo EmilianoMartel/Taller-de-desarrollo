@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\bin\Debug\ClaseFunciones.pdb
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\ClaseFunciones\ClaseFunciones\obj\Debug\ClaseFunciones.pdb

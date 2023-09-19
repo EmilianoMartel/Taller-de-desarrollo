@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\bin\Debug\Clase7.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\bin\Debug\Clase7.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\bin\Debug\Clase7.pdb
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\obj\Debug\Clase7.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\obj\Debug\Clase7.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\obj\Debug\Clase7.exe
+C:\Users\emi_p\OneDrive\Desktop\Taller-de-desarrollo\Clase7\Clase7\obj\Debug\Clase7.pdb
