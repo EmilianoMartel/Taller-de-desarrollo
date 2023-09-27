@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\bin\Debug\Tateti.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\bin\Debug\Tateti.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\bin\Debug\Tateti.pdb
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\obj\Debug\Tateti.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\obj\Debug\Tateti.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\obj\Debug\Tateti.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Tateti\Tateti\obj\Debug\Tateti.pdb
