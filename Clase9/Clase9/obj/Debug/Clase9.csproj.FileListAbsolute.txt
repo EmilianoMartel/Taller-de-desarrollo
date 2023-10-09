@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\bin\Debug\Clase9.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\bin\Debug\Clase9.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\bin\Debug\Clase9.pdb
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\obj\Debug\Clase9.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\obj\Debug\Clase9.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\obj\Debug\Clase9.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Clase9\Clase9\obj\Debug\Clase9.pdb
