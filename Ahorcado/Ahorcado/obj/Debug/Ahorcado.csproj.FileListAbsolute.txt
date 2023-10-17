@@ -1,0 +1,7 @@
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\emi_p\OneDrive\Desktop\Image\Desarrollo\Taller-de-desarrollo\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
