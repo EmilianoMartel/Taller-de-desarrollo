@@ -350,7 +350,7 @@ namespace Ahorcado
             }
             else
             {
-                Console.WriteLine("Que pena perdiste!");
+                Console.WriteLine($"Que pena perdiste! La palabra era {randomWord}");
             }
             Console.WriteLine("¿Queres jugar nuevamente?  Y/N");
             yesOrNo = ValidStringInput();
